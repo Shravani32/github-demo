@@ -1,0 +1,11 @@
+git init ->initializes empty repository (1st step from file to version control)
+
+git status ->shows current status 
+
+git add <file_name> or git add .-> adds files in staged area
+
+git rm --cache <file_name> -> get back file to untracked area
+
+git commit -m "msg" -> commits the files i.e. files go to tracked area .version control will now track files
+
+git restore <file_name> -> used to restore any deleted file but must be committed
