@@ -1,0 +1,1 @@
+print("Hello Docker !!, Started Devops journey")
